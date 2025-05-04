@@ -1,4 +1,4 @@
-# flutter_social_app
+# bugbook_mobile_flutter
 
 A new Flutter project.
 

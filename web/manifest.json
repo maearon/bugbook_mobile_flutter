@@ -1,6 +1,6 @@
 {
-    "name": "flutter_social_app",
-    "short_name": "flutter_social_app",
+    "name": "bugbook_mobile_flutter",
+    "short_name": "bugbook_mobile_flutter",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
